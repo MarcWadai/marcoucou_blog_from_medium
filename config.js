@@ -11,7 +11,7 @@ module.exports = {
   author: 'Marcoucou',
   githubUrl: 'https://github.com/MarcWadai/marcoucou_blog_from_medium',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'blog.marcoucou.com',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: '',
